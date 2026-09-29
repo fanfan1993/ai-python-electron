@@ -7,6 +7,13 @@
 - `backend/`：FastAPI、LangGraph 对话流程、SQLite 本地知识检索、JWT 认证。
 - `frontend/`：React 19、TypeScript、Vite、Zustand 和 Electron Forge 桌面端。
 
+## 页面效果
+##### 页面显示
+![screenshot](./images/1.png)
+
+![screenshot](./images/2.png)
+
+
 ## 启动后端
 
 ```bash
